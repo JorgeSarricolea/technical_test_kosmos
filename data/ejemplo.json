@@ -1,0 +1,6 @@
+[
+  { "tipoNomina": "A", "fechaPrimerEmpleo": "2022-06-12", "genero": "f" },
+  { "tipoNomina": "B", "fechaPrimerEmpleo": "1993-12-30", "genero": "f" },
+  { "tipoNomina": "C", "fechaPrimerEmpleo": "2020-09-19", "genero": "m" },
+  { "tipoNomina": "D", "fechaPrimerEmpleo": "2019-01-15", "genero": "m" }
+]
